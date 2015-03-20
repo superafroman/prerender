@@ -1,0 +1,9 @@
+.ebextensions
+.idea
+bin
+node_modules
+.gitignore
+.jshintrc
+index.js
+*.iml
+Procfile
